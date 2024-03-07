@@ -5,23 +5,7 @@
 </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-w=15" alt="thespikeone" /></a> </p>
 
-- 🔭 I’m currently working on [Something New..]
-
-- 🌱 I’m currently learning **Python, C++**
-
-- 👨‍💻 All of my projects are available at [http://redouane-sarni.me/](http://redouane-sarni.me/)
-
-- 📝 I regularly write articles on [http://redouane-sarni.me/blog](http://redouane-sarni.me/blog)
-
-- 💬 Ask me about **PHP, HTML, CSS, Mysql**
-
-- 📫 How to reach me **ysarni42.@gmail.com**
-
-- 📄 Know about my experiences [http://redouane-sarni.me/experience](http://redouane-sarni.me/experience)
-
-- ⚡ Fun fact **im MultiTasking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -56,11 +40,37 @@
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 </p>
 
+
+
+- 🔭 I’m currently working on [Something New..]
+
+- 🌱 I’m currently learning **Python, C++**
+
+- 👨‍💻 All of my projects are available at [http://redouane-sarni.me/](http://redouane-sarni.me/)
+
+- 📝 I regularly write articles on [http://redouane-sarni.me/blog](http://redouane-sarni.me/blog)
+
+- 💬 Ask me about **PHP, HTML, CSS, Mysql**
+
+- 📫 How to reach me **ysarni42.@gmail.com**
+
+- 📄 Know about my experiences [http://redouane-sarni.me/experience](http://redouane-sarni.me/experience)
+
+- ⚡ Fun fact **im MultiTasking**
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-w=15" alt="thespikeone" /></a> </p>
+
+
 <h3 align="left">Support:</h3>
 <p>
   <a href="https://ko-fi.com/d_redouane"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="younessarni" />
-  </a></p><br><br>
-  <br>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thespikeone&show_icons=true&locale=en&layout=compact" alt="thespikeone" /></p>
-
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thespikeone&show_icons=true&locale=en" alt="thespikeone" /></p>
+  </a>
+</p>
+<br><br><br>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thespikeone&show_icons=true&locale=en&layout=compact" alt="thespikeone" />
+</p>
+<p>&nbsp;
+     <img align="center" src="https://github-readme-stats.vercel.app/api?username=thespikeone&show_icons=true&locale=en" alt="thespikeone" />
+</p>

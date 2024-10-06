@@ -12,10 +12,10 @@
   <a href="mailto:redouanedaddi316@gmail.com" target="blank">
     <img align="center" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png" alt="gmail" height="35" width="60" />
   </a>
-  <a href="https://t.me/yourusername" target="blank">
+  <a href="https://t.me/D-Redouane" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="telegram" height="40" width="50" />
   </a>
-  <a href="https://wa.me/yourphonenumber" target="blank">
+  <a href="https://wa.me/+213666318833" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="whatsapp" height="45" width="60" />
   </a>
   <a href="https://twitter.com/d_redouane0" target="blank">

@@ -98,14 +98,21 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/d_redouane"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="d_redouane" /></a></p><br><br>
-  
+<p>
+  <a href="https://ko-fi.com/d_redouane"> 
+    <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="d_redouane" />
+  </a>
+</p>
+
+<br><br/>
+<br><br/>
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=D-Redouane&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+<br><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=D-Redouane&theme=dark&hide_border=false)
+<br><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=D-Redouane&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://raw.githubusercontent.com/D-Redouane/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/D-Redouane/github-stats-transparent/output/generated/languages.svg)
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

@@ -1,7 +1,7 @@
 <h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I'm Redouane DADDIOUAMER</h1>
 <h3 align="center">A passionate Developer from Algeria</h3>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+web+developer;Always+learning+new+things;Laravel+and+Vuejs+devoloper;Freelancer;You+can+call+me+Red1&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com? lines=I'm+a+web+developer;Always+learning+new+things;Laravel+and+Vuejs+devoloper;Freelancer;You+can+call+me+Red1&center=true&width=380&height=45"></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
